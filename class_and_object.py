@@ -32,6 +32,9 @@ Computer.config(comp2)
 comp1.config()
 comp2.config()
 
+
 #output:
+# i5, 16gb, 1TB
+# i5, 16gb, 1TB
 # i5, 16gb, 1TB
 # i5, 16gb, 1TB
